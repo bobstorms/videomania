@@ -1,0 +1,26 @@
+{
+  "name": "videomania",
+  "version": "1.0.0",
+  "description": "Management application for Videomania.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobstorms/videomania.git"
+  },
+  "keywords": [
+    "videomania"
+  ],
+  "author": "Bob Storms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobstorms/videomania/issues"
+  },
+  "homepage": "https://github.com/bobstorms/videomania#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.1"
+  }
+}
